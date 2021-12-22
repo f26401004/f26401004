@@ -56,9 +56,9 @@ I'm a highly motivated and passionate software engineer from Carnegie Mellon Uni
 
 | Course No. | Semester | Course Name | Grade | Link |
 | - | - | - | - | - |
-| 18613 | 21 Fall | Foundation of Computer Systems (CS:APP) | N/A | [website](http://csapp.cs.cmu.edu/) |
-| 18652 | 21 Fall | Foundation of Software Engineering | N/A | |
-| 14829 | 21 Fall | Mobile and IoT Security | N/A | [website](https://mews.sv.cmu.edu/teaching/14829/f21/) |
+| 18613 | 21 Fall | Foundation of Computer Systems (CS:APP) | A | [website](http://csapp.cs.cmu.edu/) |
+| 18652 | 21 Fall | Foundation of Software Engineering | B | |
+| 14829 | 21 Fall | Mobile and IoT Security | A | [website](https://mews.sv.cmu.edu/teaching/14829/f21/) |
 
 #### 📕 Courses in Online Learning Platform
 
