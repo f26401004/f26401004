@@ -59,6 +59,9 @@ I'm a highly motivated and passionate software engineer from Carnegie Mellon Uni
 | 18613 | 21 Fall | Foundation of Computer Systems (CS:APP) | A | [website](http://csapp.cs.cmu.edu/) |
 | 18652 | 21 Fall | Foundation of Software Engineering | B | |
 | 14829 | 21 Fall | Mobile and IoT Security | A | [website](https://mews.sv.cmu.edu/teaching/14829/f21/) |
+| 15619 | 22 Spring | Cloud Computing | N/A | [website](http://www.cs.cmu.edu/~msakr/15619-s22/) |
+| 18659 | 22 Spring | Software Engineering Methods | N/A | |
+| 18668 | 22 Spring | Data Science for Software Engineering | N/A | |
 
 #### 📕 Courses in Online Learning Platform
 
