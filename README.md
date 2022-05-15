@@ -2,10 +2,6 @@
 
 <img src="https://gpvc.arturio.dev/f26401004" alt="profile views"> 
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=f26401004"
-/>
-
 ### Hi, I'm Chun-Hao (Jack) Huang 👋
 
 I'm a highly motivated and passionate software engineer from Carnegie Mellon University, offering 2 years of experience in the full-stack development life-cycle – from concept through delivery of state of the art applications to real-world challenges. Previously working on several software engineering projects involving web development, networking, system security.
