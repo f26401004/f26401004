@@ -62,6 +62,8 @@ I'm a highly motivated and passionate software engineer from Carnegie Mellon Uni
 | 15619 | 22 Spring | Cloud Computing | A | [website](http://www.cs.cmu.edu/~msakr/15619-s22/) |
 | 18659 | 22 Spring | Software Engineering Methods | A- | |
 | 18668 | 22 Spring | Data Science for Software Engineering | A | |
+| 18653 | 22 Fall | Software Design and Architecture | N/A | |
+| 11785 | 22 Fall | Introduction to Deep Learning | N/A | |
 
 #### 📕 Courses in Online Learning Platform
 
