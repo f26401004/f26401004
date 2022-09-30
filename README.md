@@ -59,7 +59,8 @@ I'm a highly motivated and passionate software engineer from Carnegie Mellon Uni
 | 18659 | 22 Spring | Software Engineering Methods | A- | |
 | 18668 | 22 Spring | Data Science for Software Engineering | A | |
 | 18653 | 22 Fall | Software Design and Architecture | N/A | |
-| 11785 | 22 Fall | Introduction to Deep Learning | N/A | |
+| 11785 | 22 Fall | Introduction to Deep Learning | N/A | [website](https://deeplearning.cs.cmu.edu/F22/index.html) |
+| 18793 | 22 Fall | Image and Video Processing | N/A | |
 
 #### 📕 Courses in Online Learning Platform
 
